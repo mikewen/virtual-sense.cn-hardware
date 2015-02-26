@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0  Date: Wed 28 Aug 2013 09:42:31 AM CEST
+#
+$CMP 24AA512
+D 24AA512
+$ENDCMP
+#
+$CMP CP1SMALL
+D Condensateur polarise
+$ENDCMP
+#
+$CMP DS2411
+D DS2411
+$ENDCMP
+#
+$CMP MOS_N
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MOSFET_N
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MSP430F5435A
+D MSP430F54xxA
+K MSP430F54xxA
+$ENDCMP
+#
+$CMP PCF2123
+D PCF2123
+$ENDCMP
+#
+$CMP RSML
+D Resistance
+K R DEV
+$ENDCMP
+#
+#End Doc Library

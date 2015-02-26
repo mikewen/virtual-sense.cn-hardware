@@ -1,0 +1,11 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router V16.0 made 2007/06/22 at 01:14:33
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : C:\Documents and Settings\max\Documenti\Dropbox\VirtualSense\beta\uC\VirtualSense_uC.dsn
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : C:\Documents and Settings\max\Documenti\Dropbox\VirtualSense\beta\uC\monitor.sts
+select_product  Allegro PCB SI GXL

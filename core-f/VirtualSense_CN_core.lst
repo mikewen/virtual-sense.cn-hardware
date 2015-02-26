@@ -1,0 +1,91 @@
+eeschema (2012-01-19 BZR 3256)-stable  >> Creation date: 11/12/2012 15:36:00
+
+#Cmp ( order = Reference )
+| C1         100n        ;             
+| C2         100n        ;             
+| C3         100n        ;             
+| C4         100n        ;             
+| C5         10u         ;             
+| C6         0,47uF      ;             
+| C7         100n        ;             
+| C8         18p         ;             
+| C9         18p         ;             
+| C10        100n        ;             
+| C11        100n        ;             
+| CONN1      CONN_14     ;             
+| CONN2      CONN_14     ;             
+| CONN3      CONN_14     ;             
+| CONN4      CONN_14     ;             
+| CONN11     CONN_14     ;             
+| CONN21     CONN_14     ;             
+| CONN31     CONN_14     ;             
+| CONN41     CONN_14     ;             
+| FB1        FILTER      ;             
+| FB2        FILTER      ;             
+| JP1        BREAKER     ;             
+| JP2        BREAKER     ;             
+| JP3        BREAKER     ;             
+| P5         CONN_1      ;             
+| P6         CONN_1      ;             
+| P7         CONN_1      ;             
+| P8         CONN_1      ;             
+| Q2         MOS_N       ;             
+| Q3         MOS_N       ;             
+| Q4         MOS_N       ;             
+| R1         4K7         ;             
+| R2         100K        ;             
+| R7         4K7         ;             
+| R8         4K7         ;             
+| R9         4K7         ;             
+| U1         MSP430F5435A;             
+| U2         24AA1025    ;             
+| U3         PCF2123     ;             
+| U4         24AA025E48  ;             
+| X1         32.6768kHz  ;             
+#End Cmp
+
+#Cmp ( order = Value )
+| 0,47uF       C6        ;             
+| 100K         R2        ;             
+| 100n         C1        ;             
+| 100n         C2        ;             
+| 100n         C3        ;             
+| 100n         C4        ;             
+| 100n         C7        ;             
+| 100n         C10       ;             
+| 100n         C11       ;             
+| 10u          C5        ;             
+| 18p          C8        ;             
+| 18p          C9        ;             
+| 24AA025E48   U4        ;             
+| 24AA1025     U2        ;             
+| 32.6768kHz   X1        ;             
+| 4K7          R1        ;             
+| 4K7          R7        ;             
+| 4K7          R8        ;             
+| 4K7          R9        ;             
+| BREAKER      JP1       ;             
+| BREAKER      JP2       ;             
+| BREAKER      JP3       ;             
+| CONN_1       P5        ;             
+| CONN_1       P6        ;             
+| CONN_1       P7        ;             
+| CONN_1       P8        ;             
+| CONN_14      CONN1     ;             
+| CONN_14      CONN2     ;             
+| CONN_14      CONN3     ;             
+| CONN_14      CONN4     ;             
+| CONN_14      CONN11    ;             
+| CONN_14      CONN21    ;             
+| CONN_14      CONN31    ;             
+| CONN_14      CONN41    ;             
+| FILTER       FB1       ;             
+| FILTER       FB2       ;             
+| MOS_N        Q2        ;             
+| MOS_N        Q3        ;             
+| MOS_N        Q4        ;             
+| MSP430F5435A U1        ;             
+| PCF2123      U3        ;             
+#End Cmp
+
+#End List

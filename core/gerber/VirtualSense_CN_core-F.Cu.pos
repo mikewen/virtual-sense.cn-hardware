@@ -1,0 +1,10 @@
+### Module positions - created on Wed 18 Dec 2013 12:45:43 PM CET ###
+### Printed by Pcbnew version pcbnew (2013-mar-13)-testing
+## Unit = inches, Angle = deg.
+## Side : F.Cu
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C14      1uF              VSCN_SM0603         3.8075    -3.3269     270.0    F.Cu
+C17      2.2uF            VSCN_SM0603         2.9890    -3.3656       0.0    F.Cu
+FB1      BLM18HE152SN1    VSCN_SM0603         2.8868    -3.3656     180.0    F.Cu
+U3       TPS76933         VSCN-SOT23-5        3.6932    -3.3341     270.0    F.Cu
+## End

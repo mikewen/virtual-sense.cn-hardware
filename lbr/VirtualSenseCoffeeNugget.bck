@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0  Date: Mon 16 Dec 2013 10:49:54 AM CET
+#
+$CMP CONN_18
+D Symbole general de connexion
+K CONN
+$ENDCMP
+#
+$CMP PCF2123BS
+D PCF2123
+$ENDCMP
+#
+#End Doc Library

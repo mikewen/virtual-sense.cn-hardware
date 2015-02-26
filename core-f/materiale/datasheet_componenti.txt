@@ -1,0 +1,10 @@
+
+- http://www.ti.com/lit/ds/symlink/cc2538.pdf cc2538
+
+- http://www.farnell.com/cad/715132.pdf connettore PCI
+
+- SD Footprint nella libreria VirtualSense
+
+- http://www.farnell.com/cad/1752348.pdf (Porta CONN espansione femmina) NON DEFINITIVA
+
+- http://portal.fciconnect.com/Comergent//fci/drawing/20021121.pdf (Porta CONN espansione maschio) NON DEFINITIVA

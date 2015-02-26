@@ -1,0 +1,647 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 16 Dec 2013 12:01:03 PM CET
+
+BeginCmp
+TimeStamp = /5297FD7C;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297ECB7;
+Reference = C3;
+ValeurCmp = 18p;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297ECB1;
+Reference = C5;
+ValeurCmp = 18p;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52976370;
+Reference = C6;
+ValeurCmp = 47pF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52976365;
+Reference = C8;
+ValeurCmp = 47pF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52976337;
+Reference = C10;
+ValeurCmp = 1uF;
+IdModule  = VSCN_SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297A16E;
+Reference = C11;
+ValeurCmp = 22pF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297A174;
+Reference = C13;
+ValeurCmp = 22pF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52977A26;
+Reference = C14;
+ValeurCmp = 4.7uF;
+IdModule  = VSCN_SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298A22C;
+Reference = C15;
+ValeurCmp = 1uF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A8414A;
+Reference = C16;
+ValeurCmp = 47uF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EED3;
+Reference = C17;
+ValeurCmp = 2.2uF;
+IdModule  = VSCN_SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EB2C;
+Reference = C101;
+ValeurCmp = 100nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EB32;
+Reference = C151;
+ValeurCmp = 100nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EB6C;
+Reference = C241;
+ValeurCmp = 100nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297CBA9;
+Reference = C281;
+ValeurCmp = 1nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297AB74;
+Reference = C321;
+ValeurCmp = 1uF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EBE0;
+Reference = C331;
+ValeurCmp = 100nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EBE6;
+Reference = C361;
+ValeurCmp = 100nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52946B2E;
+Reference = C370;
+ValeurCmp = 100pF;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52946B40;
+Reference = C371;
+ValeurCmp = 1pF;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52946B8D;
+Reference = C372;
+ValeurCmp = 1.8pF;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52946B93;
+Reference = C373;
+ValeurCmp = 1.5pF;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52946B34;
+Reference = C380;
+ValeurCmp = 100pF;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52946B7B;
+Reference = C381;
+ValeurCmp = 1pF;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EC1C;
+Reference = C391;
+ValeurCmp = 100nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EC22;
+Reference = C392;
+ValeurCmp = 220pF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EEBB;
+Reference = C431;
+ValeurCmp = 100nF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EBAC;
+Reference = C551;
+ValeurCmp = 1uF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297AB7A;
+Reference = C561;
+ValeurCmp = 1uF;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /529751A2;
+Reference = CONNA1;
+ValeurCmp = CONNA;
+IdModule  = VSCN_SIL-18_1P27S;
+EndCmp
+
+BeginCmp
+TimeStamp = /529751B1;
+Reference = CONNB1;
+ValeurCmp = CONNB;
+IdModule  = VSCN_SIL-18_1P27S;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298B6E3;
+Reference = D0;
+ValeurCmp = LED;
+IdModule  = VSCN_SM0402_POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298B6C5;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = VSCN_SM0402_POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298B6D4;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = VSCN_SM0402_POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AECAA8;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = VSCN_SM0402_POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EECD;
+Reference = FB1;
+ValeurCmp = BLM18HE152SN1;
+IdModule  = VSCN_SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298EEE7;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = VSCN_PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52947711;
+Reference = L370;
+ValeurCmp = 1.2nH;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52947739;
+Reference = L371;
+ValeurCmp = 1.2nH;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /5294772D;
+Reference = L380;
+ValeurCmp = 1.2nH;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52974DAF;
+Reference = P1;
+ValeurCmp = USB-PLUG;
+IdModule  = VSCN_USBA-PLUG;
+EndCmp
+
+BeginCmp
+TimeStamp = /512F7BDC;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = VSCN_ENCL_HOLE_2_33;
+EndCmp
+
+BeginCmp
+TimeStamp = /512F7BD0;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = VSCN_ENCL_HOLE_2_33;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A65D47;
+Reference = P4;
+ValeurCmp = USB_Enclosure;
+IdModule  = VSCN_ENCL_USB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512F7BF3;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = fiducial15;
+EndCmp
+
+BeginCmp
+TimeStamp = /512F7BED;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = fiducial15;
+EndCmp
+
+BeginCmp
+TimeStamp = /512F7BFC;
+Reference = P7;
+ValeurCmp = CN;
+IdModule  = front_vsoh_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AEDEFA;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = fiducial15;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A65866;
+Reference = P9;
+ValeurCmp = +;
+IdModule  = VSCN_SIL-1_SQR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A6586C;
+Reference = P10;
+ValeurCmp = -;
+IdModule  = VSCN_SIL-1_RND;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AAE832;
+Reference = P11;
+ValeurCmp = CONN_6;
+IdModule  = VSCN_SIL-6_1P27S;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AAE81A;
+Reference = P12;
+ValeurCmp = CONN_10;
+IdModule  = VSCN_SIL-10_1P27S;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A84DFF;
+Reference = P13;
+ValeurCmp = BREAK-LINE;
+IdModule  = VSCN_BREAK-LINE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A84DF9;
+Reference = P14;
+ValeurCmp = DEV-AREA;
+IdModule  = VSCN_SIL-5_RND_DVK;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADBF70;
+Reference = P15;
+ValeurCmp = CONN_5;
+IdModule  = VSCN_SIL-5_1P27S;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADD959;
+Reference = P16;
+ValeurCmp = CONN_8;
+IdModule  = VSCN_SIL-8_1P27S;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AEDEF4;
+Reference = P17;
+ValeurCmp = CONN_1;
+IdModule  = fiducial15;
+EndCmp
+
+BeginCmp
+TimeStamp = /5294A5CD;
+Reference = PCI1;
+ValeurCmp = CONN_18X2;
+IdModule  = CONN_PCI_2X18_IN;
+EndCmp
+
+BeginCmp
+TimeStamp = /52976376;
+Reference = R1;
+ValeurCmp = 33;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AE42D2;
+Reference = R2;
+ValeurCmp = 0;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AECA6E;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52976233;
+Reference = R4;
+ValeurCmp = 33;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52987708;
+Reference = R5;
+ValeurCmp = 47K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AECA62;
+Reference = R6;
+ValeurCmp = 1.6K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AECA68;
+Reference = R7;
+ValeurCmp = 20K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AECA9C;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /529859A3;
+Reference = R9;
+ValeurCmp = 0;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52985BF7;
+Reference = R10;
+ValeurCmp = NO;
+IdModule  = VSCN_SM0402_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52977A2C;
+Reference = R11;
+ValeurCmp = 2;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /529885F4;
+Reference = R12;
+ValeurCmp = 4.4K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298B6AE;
+Reference = R13;
+ValeurCmp = 400;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298B6A8;
+Reference = R14;
+ValeurCmp = 400;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298B6A2;
+Reference = R15;
+ValeurCmp = 400;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299490F;
+Reference = R16;
+ValeurCmp = 10K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AECAA2;
+Reference = R17;
+ValeurCmp = 1K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /529948D7;
+Reference = R20;
+ValeurCmp = 10K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52979266;
+Reference = R21;
+ValeurCmp = 10K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52979260;
+Reference = R22;
+ValeurCmp = 10K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297CBA3;
+Reference = R281;
+ValeurCmp = 2.2K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297DDC4;
+Reference = R421;
+ValeurCmp = 56K;
+IdModule  = VSCN_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52949969;
+Reference = U1;
+ValeurCmp = CC2538;
+IdModule  = QFN-N56;
+EndCmp
+
+BeginCmp
+TimeStamp = /52975491;
+Reference = U2;
+ValeurCmp = TPS76933;
+IdModule  = VSCN-SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52983FD9;
+Reference = U3;
+ValeurCmp = PCF2123BS;
+IdModule  = QFN-N16-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E0323;
+Reference = U4;
+ValeurCmp = VSCN-24AA512;
+IdModule  = VSCN-DFN_6X5;
+EndCmp
+
+BeginCmp
+TimeStamp = /529873F5;
+Reference = U5;
+ValeurCmp = MPL115A2;
+IdModule  = MPL115A2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52985982;
+Reference = U6;
+ValeurCmp = VSCN_2_4_F-ANTENNA;
+IdModule  = VSCN_2_4_F-ANTENNA;
+EndCmp
+
+BeginCmp
+TimeStamp = /52987404;
+Reference = U7;
+ValeurCmp = BH1620FVC1;
+IdModule  = BH1620FVC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297629C;
+Reference = U8;
+ValeurCmp = MICRO_SD;
+IdModule  = MICRO_SD;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AEF2D7;
+Reference = U9;
+ValeurCmp = BQ24210;
+IdModule  = VSCN_PWSON-N10;
+EndCmp
+
+BeginCmp
+TimeStamp = /52979E8A;
+Reference = X1;
+ValeurCmp = 32MHz;
+IdModule  = FA-128_32MH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5297E996;
+Reference = X3;
+ValeurCmp = 32.768kHz;
+IdModule  = FC-12M_32_768KH;
+EndCmp
+
+EndListe

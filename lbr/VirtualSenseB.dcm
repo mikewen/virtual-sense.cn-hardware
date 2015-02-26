@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0  Date: 12/12/2012 17:34:52
+#
+$CMP 24AA512
+D 24AA512
+$ENDCMP
+#
+$CMP DS2411
+D DS2411
+$ENDCMP
+#
+$CMP MOS_N
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MOSFET_N
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MSP430F5435A
+D MSP430F54xxA
+K MSP430F54xxA
+$ENDCMP
+#
+$CMP PCF2123
+D PCF2123
+$ENDCMP
+#
+#End Doc Library
